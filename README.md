@@ -1,6 +1,92 @@
 # hello-world
 Montana Web
 
+h1 {
+  font-family: 'Cormorant', serif;
+  font-size: 120px;
+  font-weight: 200;
+  font-variant: small-caps;
+  color: RoyalBlue;
+  letter-spacing: 7px;
+}
+h1 span {
+  font-family: 'Cormorant', serif;
+  font-size: 40px;
+  font-style: oblique;
+  color: black;
+}
+h2 {
+  font-family: 'Cormorant', serif;
+  font-size: 44px;
+  font-weight: lighter;
+  letter-spacing: 3px;
+  color: black;
+  margin: 7px 0px 25px 0px;
+}
+h2 span {
+  font-family: 'Cormorant', serif;
+  font-size: 26px;
+  font-weight: lighter;
+  font-style: oblique;
+  letter-spacing: 3px;
+  color: RoyalBlue;
+}
+h3 {
+  font-family: 'Cormorant', serif;
+  font-size: 20px;
+  font-weight: 100;
+  font-style: oblique;
+  letter-spacing: 2px;
+  color: black;
+  border-color: RoyalBlue;
+  border-style: solid;
+  border-width: 1px;
+  border-right-width: 17px;
+  border-left-style: none;
+  border-bottom-style: none;
+  padding: 10px 10px 10px 10px;
+}
+h3 span {
+  font-family: 'Cormorant', serif;
+  color: RoyalBlue;
+  font-style: normal;
+  font-size: 20px;
+  font-weight: 400;
+}
+h4 {
+  font-family: 'Cormorant', serif;
+  font-size: 30px;
+  font-weight: 400;
+  font-variant: small-caps;
+  color: black;
+  letter-spacing: 1px;
+}
+p {
+  font-family: 'Cormorant', serif;
+  font-size: 21px;
+  font-color: black;
+}
+.img1 {
+  height: 350px;
+  width: 100%;
+  border-radius: 50%;
+}
+.div-rows {
+  margin: 25px 10px 0px 10px;
+}
+.list1 {
+  font-family: 'Cormorant', serif;
+  font-size: 22px;
+  font-style: italic;
+  color: black;
+  padding-top: 15px;
+}
+.list2 {
+  font-family: 'Cormorant', serif;
+  font-size: 22px;
+  color: green;
+}
+
 <div class="container-fluid">
   <div class="row">
     <div class="col-md-12 text-center">
